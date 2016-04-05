@@ -1,0 +1,26 @@
+Lab3
+Question_A:
+How to compile lab3_A:g++ -o lab3A lab3A.cpp
+
+The program lab3A read the stdIn and get the first line get the variable n
+and then read&store n lines data (the weight/heavienss)in the vector named 
+weight.
+
+And we sort the data in vector, pick up the top5 weight and calculate the 
+summation.
+
+
+Question_B:
+We can get the execution time in the output data.
+We will know the different algorithm that have different complexity can 
+obviously distinct in the time.(refer the Table)
+		sort()	| insertion_sort()
+Size n	
+1000		0	|		0.01
+10000		0	|		1.28
+100000		0.01|	  128.43
+
+
+The algorithm having the time complexity O(nlogn) is much faster than the
+ algorithm having the time complexity O(n^2).
+

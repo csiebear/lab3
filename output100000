@@ -1,0 +1,4 @@
+sort(): 0.04 seconds
+v1/v2 are different.
+insertion_sort(): 128.43 seconds
+v1/v2 are the same.
